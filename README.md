@@ -77,7 +77,7 @@ The project transforms raw sales data into meaningful business insights through 
 - Business insights and performance overview
 
 ## Dashboard Preview
-![Wolke Business Dashboard](Dashboard.png)
+![Wolke Business Dashboard](Screenshot%202026-11-24%20030232.png)
 
 
 ## Tools and Technologies Used
